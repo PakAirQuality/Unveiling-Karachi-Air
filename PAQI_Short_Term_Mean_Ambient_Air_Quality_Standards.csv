@@ -1,0 +1,13 @@
+﻿pollutant,averaging_period,neqs_2010_value,neqs_2013_value,seqs_2016_value,who_2005_value,who_2021_value
+PM2.5,24-hour,40 µg/m³,35 µg/m³,75 µg/m³,25 µg/m³,15 µg/m³
+PM10,24-hour,250 µg/m³,150 µg/m³,150 µg/m³,50 µg/m³,45 µg/m³
+SO2,24-hour,120 µg/m³,120 µg/m³,120 µg/m³,20 µg/m³,40 µg/m³
+NO2,24-hour,80 µg/m³,80 µg/m³,80 µg/m³,N/A,25 µg/m³
+NO,24-hour,40 µg/m³,40 µg/m³,40 µg/m³,N/A,N/A
+Lead (Pb),24-hour,2.0 µg/m³,1.5 µg/m³,1.5 µg/m³,N/A,N/A
+SPM,24-hour,550 µg/m³,500 µg/m³,500 µg/m³,N/A,N/A
+Ozone (O3),8-hour,N/A,N/A,N/A,100 µg/m³,100 µg/m³
+Ozone (O3),1-hour,180 µg/m³,130 µg/m³,130 µg/m³,N/A,N/A
+CO,24-hour,N/A,N/A,N/A,N/A,4 mg/m³
+CO,8-hour,5 mg/m³,5 mg/m³,5 mg/m³,N/A,N/A
+CO,1-hour,10 mg/m³,10 mg/m³,10 mg/m³,N/A,N/A
