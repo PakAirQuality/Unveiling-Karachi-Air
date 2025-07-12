@@ -63,3 +63,6 @@ This section serves as the data dictionary, explaining the contents of each file
     * `averaging_period`: The time period for the standard (e.g., '24-hour'). (Data Type: String)
     * `unit`: The unit of measurement (e.g., 'µg/m³'). (Data Type: String)
     * `neqs_2010_value` to `who_2021_value`: The standard limit for the respective authority and year. (Data Type: Number)
+
+## License
+This report and dataset are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) by the Pakistan Air Quality Initiative.
